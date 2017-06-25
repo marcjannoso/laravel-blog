@@ -18,7 +18,7 @@
        	  {!! Form::textarea("body", null, ['class'=>'form-control']) !!}
        </div>
        <div class="form-group">
-       	 {!! Form::submit("Edit  Blog", ['class'=>'btn btn-primary'])!!}
+       	 {!! Form::submit("Edit Blog", ['class'=>'btn btn-primary'])!!}
        </div>
       {!! Form::close() !!}
        

@@ -49,4 +49,5 @@ class BlogController extends Controller
       $blog->delete($request->all());
       return redirect('/blog');
     }
+   
 }
